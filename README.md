@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # notesapp
 
 A new Flutter project.
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Notes-app
 >>>>>>> 4cd1dc28769de6c7bb5f81526804a59e6ddc90b7
+=======
+# Notes-app
+>>>>>>> 16b2d7f4274cad0eee9f81ed7fbec31cfa544348
